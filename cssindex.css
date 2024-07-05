@@ -1,16 +1,28 @@
 h1 {
     font-family: fantasy, Arial;
     background: #7494EA;
-    color: #494947;
-    text-align: center;}
-    h2 {
-        font-family: fantasy, Arial;
-        background: #7494EA;
-        color: #494947;
-        text-align: center;}
-    p{
-        font-family: fantasy, Arial;
-        background: yellowgreen;
-        color: black;
-        text-align: center 
-    }
+    color: #050914;
+    text-align: center;
+}
+.imgage1{ 
+    float: right;
+    width: 200px;
+    height: auto;
+  }
+h2 {
+    font-family: fantasy, Arial;
+    background: #9ad3e4;
+    color: #050914;
+    text-align: center;
+}
+
+p {
+    font-family: fantasy, Arial;
+    background #9ad3e4;
+    color: black;
+    text-align: center font
+}
+.imgage2{
+    width: 400px;
+    height: auto;
+  }
